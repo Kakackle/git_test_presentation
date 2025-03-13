@@ -2,3 +2,4 @@ line1
 line2
 f1
 f2
+f2 bugfix
